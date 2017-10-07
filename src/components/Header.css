@@ -19,7 +19,7 @@
     background: #748ffc;
 }
 
-.item:active {
+.item:active, .item.active {
     background: white;
     color: #5c7cfa;
 }
